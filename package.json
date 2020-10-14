@@ -28,7 +28,7 @@
   "dependencies": {
     "eth-ens-namehash": "^1.0.2",
     "ethereum-ens-network-map": "^1.0.0",
-    "ethjs-contract": "^0.1.7",
+    "ethjs-contract": "^0.2.3",
     "ethjs-query": "^0.2.4"
   },
   "devDependencies": {
